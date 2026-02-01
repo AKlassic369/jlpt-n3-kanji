@@ -11,6 +11,270 @@
       "meaning": "Necessary",
       "reading": "ひつよう",
       "options": ["Necessary", "Easy", "Important", "Danger"]
+    },
+    {
+      "kanji": "約束",
+      "meaning": "Promise",
+      "reading": "やくそく",
+      "options": ["Promise", "Rule", "Hope", "Plan"]
+    },
+    {
+      "kanji": "準備",
+      "meaning": "Preparation",
+      "reading": "じゅんび",
+      "options": ["Preparation", "Result", "Practice", "Schedule"]
+    },
+    {
+      "kanji": "安全",
+      "meaning": "Safety",
+      "reading": "あんぜん",
+      "options": ["Safety", "Risk", "Danger", "Speed"]
+    },
+    {
+      "kanji": "注意",
+      "meaning": "Attention",
+      "reading": "ちゅうい",
+      "options": ["Attention", "Information", "Permission", "Problem"]
+    },
+    {
+      "kanji": "利用",
+      "meaning": "Use",
+      "reading": "りよう",
+      "options": ["Use", "Sell", "Buy", "Throw"]
+    },
+    {
+      "kanji": "説明",
+      "meaning": "Explanation",
+      "reading": "せつめい",
+      "options": ["Explanation", "Question", "Answer", "Reason"]
+    },
+    {
+      "kanji": "簡単",
+      "meaning": "Easy",
+      "reading": "かんたん",
+      "options": ["Easy", "Difficult", "Expensive", "Long"]
+    },
+    {
+      "kanji": "便利",
+      "meaning": "Convenient",
+      "reading": "べんり",
+      "options": ["Convenient", "Heavy", "Slow", "Hard"]
+    },
+    {
+      "kanji": "自由",
+      "meaning": "Freedom",
+      "reading": "じゆう",
+      "options": ["Freedom", "Rule", "Order", "Limit"]
+    },
+    {
+      "kanji": "習慣",
+      "meaning": "Habit",
+      "reading": "しゅうかん",
+      "options": ["Habit", "Culture", "Rule", "Event"]
+    },
+    {
+      "kanji": "生活",
+      "meaning": "Life",
+      "reading": "せいかつ",
+      "options": ["Life", "Food", "House", "Money"]
+    },
+    {
+      "kanji": "最近",
+      "meaning": "Recently",
+      "reading": "さいきん",
+      "options": ["Recently", "Suddenly", "Slowly", "Usually"]
+    },
+    {
+      "kanji": "予定",
+      "meaning": "Plan",
+      "reading": "よてい",
+      "options": ["Plan", "Hope", "Dream", "Memory"]
+    },
+    {
+      "kanji": "関係",
+      "meaning": "Relation",
+      "reading": "かんけい",
+      "options": ["Relation", "Distance", "Difference", "Reason"]
+    },
+    {
+      "kanji": "原因",
+      "meaning": "Cause",
+      "reading": "げんいん",
+      "options": ["Cause", "Result", "Effect", "Problem"]
+    },
+    {
+      "kanji": "結果",
+      "meaning": "Result",
+      "reading": "けっか",
+      "options": ["Result", "Reason", "Plan", "Hope"]
+    },
+    {
+      "kanji": "理由",
+      "meaning": "Reason",
+      "reading": "りゆう",
+      "options": ["Reason", "Result", "Chance", "Rule"]
+    },
+    {
+      "kanji": "連絡",
+      "meaning": "Contact",
+      "reading": "れんらく",
+      "options": ["Contact", "Promise", "Meeting", "Message"]
+    },
+    {
+      "kanji": "確認",
+      "meaning": "Confirmation",
+      "reading": "かくにん",
+      "options": ["Confirmation", "Mistake", "Decision", "Answer"]
+    },
+    {
+      "kanji": "変更",
+      "meaning": "Change",
+      "reading": "へんこう",
+      "options": ["Change", "Continue", "Stop", "Repeat"]
+    },
+    {
+      "kanji": "参加",
+      "meaning": "Participation",
+      "reading": "さんか",
+      "options": ["Participation", "Refusal", "Rest", "Practice"]
+    },
+    {
+      "kanji": "欠席",
+      "meaning": "Absence",
+      "reading": "けっせき",
+      "options": ["Absence", "Attendance", "Meeting", "Delay"]
+    },
+    {
+      "kanji": "連続",
+      "meaning": "Continuous",
+      "reading": "れんぞく",
+      "options": ["Continuous", "Separate", "Sudden", "Rare"]
+    },
+    {
+      "kanji": "必要性",
+      "meaning": "Necessity",
+      "reading": "ひつようせい",
+      "options": ["Necessity", "Possibility", "Ability", "Freedom"]
+    },
+    {
+      "kanji": "改善",
+      "meaning": "Improvement",
+      "reading": "かいぜん",
+      "options": ["Improvement", "Damage", "Failure", "Stop"]
+    },
+    {
+      "kanji": "影響",
+      "meaning": "Influence",
+      "reading": "えいきょう",
+      "options": ["Influence", "Result", "Plan", "Reason"]
+    },
+    {
+      "kanji": "状況",
+      "meaning": "Situation",
+      "reading": "じょうきょう",
+      "options": ["Situation", "Location", "Reason", "Problem"]
+    },
+    {
+      "kanji": "態度",
+      "meaning": "Attitude",
+      "reading": "たいど",
+      "options": ["Attitude", "Feeling", "Habit", "Action"]
+    },
+    {
+      "kanji": "努力",
+      "meaning": "Effort",
+      "reading": "どりょく",
+      "options": ["Effort", "Result", "Luck", "Skill"]
+    },
+    {
+      "kanji": "成功",
+      "meaning": "Success",
+      "reading": "せいこう",
+      "options": ["Success", "Failure", "Accident", "Mistake"]
+    },
+    {
+      "kanji": "失敗",
+      "meaning": "Failure",
+      "reading": "しっぱい",
+      "options": ["Failure", "Success", "Practice", "Luck"]
+    },
+    {
+      "kanji": "能力",
+      "meaning": "Ability",
+      "reading": "のうりょく",
+      "options": ["Ability", "Chance", "Reason", "Habit"]
+    },
+    {
+      "kanji": "判断",
+      "meaning": "Judgment",
+      "reading": "はんだん",
+      "options": ["Judgment", "Opinion", "Feeling", "Hope"]
+    },
+    {
+      "kanji": "確認書",
+      "meaning": "Confirmation document",
+      "reading": "かくにんしょ",
+      "options": ["Confirmation document", "Application", "Contract", "Report"]
+    },
+    {
+      "kanji": "申請",
+      "meaning": "Application",
+      "reading": "しんせい",
+      "options": ["Application", "Permission", "Promise", "Rule"]
+    },
+    {
+      "kanji": "許可",
+      "meaning": "Permission",
+      "reading": "きょか",
+      "options": ["Permission", "Refusal", "Rule", "Order"]
+    },
+    {
+      "kanji": "禁止",
+      "meaning": "Prohibition",
+      "reading": "きんし",
+      "options": ["Prohibition", "Permission", "Freedom", "Choice"]
+    },
+    {
+      "kanji": "選択",
+      "meaning": "Selection",
+      "reading": "せんたく",
+      "options": ["Selection", "Decision", "Chance", "Habit"]
+    },
+    {
+      "kanji": "比較",
+      "meaning": "Comparison",
+      "reading": "ひかく",
+      "options": ["Comparison", "Difference", "Reason", "Result"]
+    },
+    {
+      "kanji": "基準",
+      "meaning": "Standard",
+      "reading": "きじゅん",
+      "options": ["Standard", "Rule", "Habit", "Limit"]
+    },
+    {
+      "kanji": "目的",
+      "meaning": "Purpose",
+      "reading": "もくてき",
+      "options": ["Purpose", "Result", "Reason", "Plan"]
+    },
+    {
+      "kanji": "方法",
+      "meaning": "Method",
+      "reading": "ほうほう",
+      "options": ["Method", "Result", "Rule", "Reason"]
+    },
+    {
+      "kanji": "条件",
+      "meaning": "Condition",
+      "reading": "じょうけん",
+      "options": ["Condition", "Result", "Reason", "Choice"]
+    },
+    {
+      "kanji": "対応",
+      "meaning": "Response",
+      "reading": "たいおう",
+      "options": ["Response", "Question", "Problem", "Delay"]
     }
   ]
 }
