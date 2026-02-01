@@ -1,55 +1,124 @@
 [
-  { kanji: "会", meaning: "Meet", reading: "あう (au), かい (kai)" },
-  { kanji: "社", meaning: "Company", reading: "しゃ (sha)" },
-  { kanji: "部", meaning: "Section/Department", reading: "ぶ (bu)" },
-  { kanji: "使", meaning: "Use", reading: "つかう (tsukau)" },
-  { kanji: "作", meaning: "Make", reading: "つくる (tsukuru)" },
-  { kanji: "思", meaning: "Think", reading: "おもう (omou)" },
-  { kanji: "知", meaning: "Know", reading: "しる (shiru)" },
-  { kanji: "言", meaning: "Say", reading: "いう (iu), げん (gen)" },
-  { kanji: "話", meaning: "Talk", reading: "はなす (hanasu)" },
-  { kanji: "書", meaning: "Write", reading: "かく (kaku)" },
+  {
+    "kanji": "勉強",
+    "meaning_hi": "पढ़ाई / अध्ययन",
+    "correct": "べんきょう",
+    "sentence": "私は毎日日本語を勉強します。",
+    "sentence_hi": "मैं रोज़ जापानी भाषा की पढ़ाई करता हूँ।",
+    "options": ["べんきょう","ぶんきょう","べんこう","べんぎょう"]
+  },
+  {
+    "kanji": "経験",
+    "meaning_hi": "अनुभव",
+    "correct": "けいけん",
+    "sentence": "海外で働いた経験があります。",
+    "sentence_hi": "मुझे विदेश में काम करने का अनुभव है।",
+    "options": ["けいけん","けんけい","きょうけん","けいげん"]
+  },
+  {
+    "kanji": "必要",
+    "meaning_hi": "ज़रूरी / आवश्यकता",
+    "correct": "ひつよう",
+    "sentence": "お金は生活に必要です。",
+    "sentence_hi": "पैसा जीवन के लिए ज़रूरी है।",
+    "options": ["ひつよう","ひっよう","ひつよ","ひっよ"]
+  },
+  {
+    "kanji": "簡単",
+    "meaning_hi": "आसान",
+    "correct": "かんたん",
+    "sentence": "この問題は簡単です。",
+    "sentence_hi": "यह सवाल आसान है।",
+    "options": ["かんたん","けんたん","かんだん","けんだん"]
+  },
+  {
+    "kanji": "約束",
+    "meaning_hi": "वादा",
+    "correct": "やくそく",
+    "sentence": "友だちと約束しました。",
+    "sentence_hi": "मैंने दोस्त से वादा किया।",
+    "options": ["やくそく","やっそく","やくぞく","やくそ"]
+  },
 
-  { kanji: "読", meaning: "Read", reading: "よむ (yomu)" },
-  { kanji: "聞", meaning: "Hear/Ask", reading: "きく (kiku)" },
-  { kanji: "見", meaning: "See", reading: "みる (miru)" },
-  { kanji: "出", meaning: "Go out", reading: "でる (deru)" },
-  { kanji: "入", meaning: "Enter", reading: "はいる (hairu)" },
-  { kanji: "立", meaning: "Stand", reading: "たつ (tatsu)" },
-  { kanji: "歩", meaning: "Walk", reading: "あるく (aruku)" },
-  { kanji: "走", meaning: "Run", reading: "はしる (hashiru)" },
-  { kanji: "止", meaning: "Stop", reading: "とまる (tomaru)" },
-  { kanji: "開", meaning: "Open", reading: "あける (akeru)" },
+  {
+    "kanji": "理由",
+    "meaning_hi": "कारण",
+    "correct": "りゆう",
+    "sentence": "理由を説明してください。",
+    "sentence_hi": "कृपया कारण समझाइए।",
+    "options": ["りゆう","りょう","りよう","りじゆう"]
+  },
+  {
+    "kanji": "準備",
+    "meaning_hi": "तैयारी",
+    "correct": "じゅんび",
+    "sentence": "旅行の準備をしています。",
+    "sentence_hi": "मैं यात्रा की तैयारी कर रहा हूँ।",
+    "options": ["じゅんび","じゅんぴ","しゅんび","じゅんひ"]
+  },
+  {
+    "kanji": "結果",
+    "meaning_hi": "नतीजा / परिणाम",
+    "correct": "けっか",
+    "sentence": "良い結果が出ました。",
+    "sentence_hi": "अच्छा परिणाम आया।",
+    "options": ["けっか","けつか","けっけ","けつけ"]
+  },
+  {
+    "kanji": "安心",
+    "meaning_hi": "सुकून / राहत",
+    "correct": "あんしん",
+    "sentence": "彼の声を聞いて安心しました。",
+    "sentence_hi": "उसकी आवाज़ सुनकर मुझे राहत मिली।",
+    "options": ["あんしん","あんじん","あんせん","あんし"]
+  },
+  {
+    "kanji": "失敗",
+    "meaning_hi": "असफलता",
+    "correct": "しっぱい",
+    "sentence": "失敗しても大丈夫です。",
+    "sentence_hi": "असफल होने पर भी कोई बात नहीं।",
+    "options": ["しっぱい","しつぱい","しっばい","しはい"]
+  },
 
-  { kanji: "閉", meaning: "Close", reading: "しめる (shimeru)" },
-  { kanji: "始", meaning: "Begin", reading: "はじめる (hajimeru)" },
-  { kanji: "終", meaning: "End", reading: "おわる (owaru)" },
-  { kanji: "教", meaning: "Teach", reading: "おしえる (oshieru)" },
-  { kanji: "習", meaning: "Learn", reading: "ならう (narau)" },
-  { kanji: "買", meaning: "Buy", reading: "かう (kau)" },
-  { kanji: "売", meaning: "Sell", reading: "うる (uru)" },
-  { kanji: "食", meaning: "Eat", reading: "たべる (taberu)" },
-  { kanji: "飲", meaning: "Drink", reading: "のむ (nomu)" },
-  { kanji: "住", meaning: "Live", reading: "すむ (sumu)" },
-
-  { kanji: "働", meaning: "Work", reading: "はたらく (hataraku)" },
-  { kanji: "休", meaning: "Rest", reading: "やすむ (yasumu)" },
-  { kanji: "旅", meaning: "Travel", reading: "たび (tabi)" },
-  { kanji: "病", meaning: "Illness", reading: "びょう (byou)" },
-  { kanji: "医", meaning: "Doctor", reading: "い (i)" },
-  { kanji: "館", meaning: "Building/Hall", reading: "かん (kan)" },
-  { kanji: "駅", meaning: "Station", reading: "えき (eki)" },
-  { kanji: "道", meaning: "Road/Way", reading: "みち (michi)" },
-  { kanji: "空", meaning: "Sky/Empty", reading: "そら (sora)" },
-  { kanji: "海", meaning: "Sea", reading: "うみ (umi)" },
-
-  { kanji: "漢", meaning: "Chinese (Kanji)", reading: "かん (kan)" },
-  { kanji: "字", meaning: "Character", reading: "じ (ji)" },
-  { kanji: "文", meaning: "Sentence", reading: "ぶん (bun)" },
-  { kanji: "理", meaning: "Reason", reading: "り (ri)" },
-  { kanji: "料", meaning: "Fee/Material", reading: "りょう (ryou)" },
-  { kanji: "親", meaning: "Parent", reading: "おや (oya)" },
-  { kanji: "友", meaning: "Friend", reading: "とも (tomo)" },
-  { kanji: "家", meaning: "House", reading: "いえ (ie)" },
-  { kanji: "心", meaning: "Heart/Mind", reading: "こころ (kokoro)" }
+  {
+    "kanji": "成功",
+    "meaning_hi": "सफलता",
+    "correct": "せいこう",
+    "sentence": "彼は仕事で成功しました。",
+    "sentence_hi": "वह काम में सफल हुआ।",
+    "options": ["せいこう","せいごう","せこう","せいこ"]
+  },
+  {
+    "kanji": "努力",
+    "meaning_hi": "मेहनत",
+    "correct": "どりょく",
+    "sentence": "努力は大切です。",
+    "sentence_hi": "मेहनत बहुत ज़रूरी है।",
+    "options": ["どりょく","どりょ","どりょう","どりょっく"]
+  },
+  {
+    "kanji": "判断",
+    "meaning_hi": "निर्णय",
+    "correct": "はんだん",
+    "sentence": "正しい判断をしてください。",
+    "sentence_hi": "सही निर्णय लें।",
+    "options": ["はんだん","ばんだん","はんたん","はんなん"]
+  },
+  {
+    "kanji": "選択",
+    "meaning_hi": "चुनाव / चयन",
+    "correct": "せんたく",
+    "sentence": "大切な選択です。",
+    "sentence_hi": "यह एक महत्वपूर्ण चयन है।",
+    "options": ["せんたく","せんだく","せんとく","せんた"]
+  },
+  {
+    "kanji": "確認",
+    "meaning_hi": "पुष्टि",
+    "correct": "かくにん",
+    "sentence": "もう一度確認してください。",
+    "sentence_hi": "कृपया एक बार फिर पुष्टि करें।",
+    "options": ["かくにん","かくねん","がくにん","かくに"]
+  }
 ]
