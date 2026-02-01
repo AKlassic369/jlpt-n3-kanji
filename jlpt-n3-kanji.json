@@ -1,0 +1,16 @@
+{
+  "practice_1": [
+    {
+      "kanji": "経験",
+      "meaning": "Experience",
+      "reading": "けいけん",
+      "options": ["Experience", "Decision", "Memory", "Chance"]
+    },
+    {
+      "kanji": "必要",
+      "meaning": "Necessary",
+      "reading": "ひつよう",
+      "options": ["Necessary", "Easy", "Important", "Danger"]
+    }
+  ]
+}
