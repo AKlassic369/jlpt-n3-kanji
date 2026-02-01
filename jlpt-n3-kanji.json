@@ -1,15 +1,7 @@
-{
-  "practice_1": [
-    {
-      "kanji": "経験",
-      "meaning": "Experience",
-      "reading": "けいけん",
-      "options": ["Experience", "Decision", "Memory", "Chance"]
-    },
-    {
-      "kanji": "必要",
-      "meaning": "Necessary",
-      "reading": "ひつよう",
-      "options": ["Necessary", "Easy", "Important", "Danger"]
-    }
-  ]
+[
+  {
+    "question": "次の漢字の読みは？【経験】",
+    "options": ["けいけん", "けいげん", "けんけい", "きょうけん"],
+    "answer": 0
+  }
+]
